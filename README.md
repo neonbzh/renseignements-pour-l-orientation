@@ -1,6 +1,5 @@
 # renseignements-pour-l-orientation
-Bonjour je m'appelle Neo Nahounn , 
-mon projet d'orientation est de partir dans le domaine de l'architecture.
+Mon projet d'orientation est de partir dans le domaine de l'architecture.
 Dans un premier temps j'ai pour idée 2 projets pour ce but :
 Les écoles d'archi, celle que j'ai en vu son :
 1. ECV Nante déjà conctacte avec pour une journée d'intégration et les portes ouvertes
